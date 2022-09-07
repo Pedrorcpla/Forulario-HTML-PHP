@@ -1,0 +1,22 @@
+{
+    "logo": "../img/logo.png",
+    "background": [
+        {
+            "color": "#ffc107"
+        },
+        {
+            "color": "purple"
+        },
+        {
+            "color": "#d63384"
+        }
+    ],
+    "fontColor": "#094b65",
+
+    "whatsapp": "5513988121415",
+    "whatsappClean": "(13) 98812-1415",
+    "instagram": "pedrorcpla",
+    "instagramClean": "@pedrorcpla",
+    "local": "https://goo.gl/maps/H87dMNxjgB269mw19",
+    "localClean": "Guaraú, Peruíbe"
+}

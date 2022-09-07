@@ -1,0 +1,51 @@
+[
+    {
+        "tag": "agua",
+        "ingredientes": "Água",
+        "foto": "../img/agua.png",
+        "nome": "Água",
+        "valor": "8.00"
+    },
+    {
+        "tag": "brahma",
+        "ingredientes": "Cerveja Brahma",
+        "foto": "../img/brahma.png",
+        "nome": "Cerveja Brahma",
+        "valor": "7.00"
+    },
+    {
+        "tag": "skol",
+        "ingredientes": "Cerveja Skol",
+        "foto": "../img/skol.png",
+        "nome": "Cerveja Skol",
+        "valor": "7.00"
+    },
+    {
+        "tag": "soda",
+        "ingredientes": "Soda",
+        "foto": "../img/soda.png",
+        "nome": "Soda",
+        "valor": "6.00"
+    },
+    {
+        "tag": "guarana",
+        "ingredientes": "Guaraná",
+        "foto": "../img/guarana.png",
+        "nome": "Guaraná",
+        "valor": "8.00"
+    },
+    {
+        "tag": "coca",
+        "ingredientes": "Coca-Cola",
+        "foto": "../img/coca.png",
+        "nome": "Coca-Cola",
+        "valor": "7.00"
+    }, 
+    {
+        "tag": "sukita",
+        "ingredientes": "Sukita",
+        "foto": "../img/sukita.png",
+        "nome": "Sukita",
+        "valor": "6.00"
+    }
+]
